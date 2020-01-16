@@ -46,6 +46,8 @@
 
 #alps_area
 
+#shop_with_iron_items
+
 #combat_horse
 
 #combat_bee
