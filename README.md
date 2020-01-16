@@ -6,7 +6,7 @@
 
 #water_river
 
-#water_toxic_factory
+#water_toxic_factory     made by Fedir
 
 
 
@@ -16,7 +16,7 @@
 
 #clay
 
-#blackgroud
+#blackgroud             made by Yulia
 
 #brownground
 
@@ -39,6 +39,8 @@
 
 
 #odjects
+
+#house       made by Ivanka
 
 #Nikita+Nastya
 
