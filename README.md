@@ -69,3 +69,8 @@
 #sand_mine
 
 #Fedir
+
+#colhozy
+
+#tree_factory
+
