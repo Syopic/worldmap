@@ -44,7 +44,7 @@
 
 #Nikita+Nastya
 
-#trees(pine,palm,oak,birch_and_others)
+#trees(pine,palm,oak,birch_and_others)  made by All
 
 #alps_area
 
@@ -82,4 +82,4 @@
 
 #factory
 
-#YOURBIGESTMAMKA
+#YOURBIGESTMAMKA made by Nikesha
