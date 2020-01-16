@@ -54,4 +54,18 @@
 
 #God_house
 
-#
+#mine_area
+
+#Hanie
+
+#volfran_mine
+
+#skotokicker
+
+#school
+
+#Ivanka+Andrey=Endless_love
+
+#sand_mine
+
+#Fedir
