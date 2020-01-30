@@ -65,7 +65,7 @@
          "margin":0,
          "name":"objects",
          "spacing":0,
-         "tilecount":53,
+         "tilecount":42,
          "tileheight":32,
          "tiles":[
                 {
@@ -295,72 +295,6 @@
                  "image":"img\/nikitaFactory32.png",
                  "imageheight":32,
                  "imagewidth":32
-                }, 
-                {
-                 "id":66,
-                 "image":"img\/rails__ corner_up_right.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":67,
-                 "image":"img\/rails__ horizontal.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":68,
-                 "image":"img\/rails__comprehensive.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":69,
-                 "image":"img\/rails__corner_bottom_left.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":70,
-                 "image":"img\/rails__corner_down_right.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":71,
-                 "image":"img\/rails__corner_up_left.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":72,
-                 "image":"img\/rails__forked_low_left_right.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":73,
-                 "image":"img\/rails__forked_up_down_left.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":74,
-                 "image":"img\/rails__forked_up_down_right.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":75,
-                 "image":"img\/rails__forked_up_left_right.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":76,
-                 "image":"img\/rails__vertical.png",
-                 "imageheight":16,
-                 "imagewidth":16
                 }, 
                 {
                  "id":77,
