@@ -65,7 +65,7 @@
          "margin":0,
          "name":"objects",
          "spacing":0,
-         "tilecount":43,
+         "tilecount":49,
          "tileheight":32,
          "tiles":[
                 {
@@ -94,31 +94,31 @@
                 }, 
                 {
                  "id":6,
-                 "image":"img\/ground (1).png",
+                 "image":"img\/ground(1).png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":7,
-                 "image":"img\/New Piskel (1).png",
+                 "image":"img\/tree(1).png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":8,
-                 "image":"img\/New Piskel (3).png",
+                 "image":"img\/NewPiskel(3).png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":9,
-                 "image":"img\/New Piskel (2).png",
+                 "image":"img\/NewPiskel(2).png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":10,
-                 "image":"img\/Black ground.png",
+                 "image":"img\/BlackGround.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
@@ -130,7 +130,7 @@
                 }, 
                 {
                  "id":12,
-                 "image":"img\/New Piskel (4).png",
+                 "image":"img\/NewPiskel(4).png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
@@ -166,7 +166,7 @@
                 }, 
                 {
                  "id":19,
-                 "image":"img\/Water sea.png",
+                 "image":"img\/WaterSea.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
@@ -184,13 +184,13 @@
                 }, 
                 {
                  "id":22,
-                 "image":"img\/Pravui bok zavoda.png",
+                 "image":"img\/PravuBokZavoda.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":23,
-                 "image":"img\/Srednee Okno Zavoda.png",
+                 "image":"img\/SredneeOknoZavoda.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
@@ -226,7 +226,7 @@
                 }, 
                 {
                  "id":39,
-                 "image":"img\/\u0441\u043e\u0441\u043d\u0430.png",
+                 "image":"img\/sosna.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
@@ -249,30 +249,8 @@
                  "imagewidth":16
                 }, 
                 {
-                 "id":43,
-                 "image":"img\/board-0 (1).png"
-                }, 
-                {
                  "id":44,
                  "image":"img\/border.png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":45,
-                 "image":"img\/TEC(1).png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":46,
-                 "image":"img\/TEC(2).png",
-                 "imageheight":16,
-                 "imagewidth":16
-                }, 
-                {
-                 "id":47,
-                 "image":"img\/TEC(3).png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
@@ -284,19 +262,13 @@
                 }, 
                 {
                  "id":53,
-                 "image":"img\/\u0414\u0435\u043f\u043e.png",
+                 "image":"img\/Depo.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
-                 "id":60,
-                 "image":"img\/\u0442\u0435\u0441\u0442 32\u044532.png",
-                 "imageheight":32,
-                 "imagewidth":32
-                }, 
-                {
                  "id":61,
-                 "image":"img\/\u041b\u0435\u0441\u043e\u043f\u0438\u043b\u043a\u0430.png",
+                 "image":"img\/Lesopilka.png",
                  "imageheight":32,
                  "imagewidth":32
                 }, 
@@ -308,21 +280,87 @@
                 }, 
                 {
                  "id":63,
-                 "image":"img\/\u041a\u043e\u043b\u0445\u043e\u0437.png",
+                 "image":"img\/kolhos.png",
                  "imageheight":32,
                  "imagewidth":32
                 }, 
                 {
                  "id":64,
-                 "image":"img\/steam station.png",
+                 "image":"img\/steamStation.png",
                  "imageheight":32,
                  "imagewidth":32
                 }, 
                 {
                  "id":65,
-                 "image":"img\/\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440 \u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433\u0430 32.png",
+                 "image":"img\/nikitaFactory32.png",
                  "imageheight":32,
                  "imagewidth":32
+                }, 
+                {
+                 "id":66,
+                 "image":"img\/rails__ corner_up_right.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":67,
+                 "image":"img\/rails__ horizontal.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":68,
+                 "image":"img\/rails__comprehensive.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":69,
+                 "image":"img\/rails__corner_bottom_left.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":70,
+                 "image":"img\/rails__corner_down_right.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":71,
+                 "image":"img\/rails__corner_up_left.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":72,
+                 "image":"img\/rails__forked_low_left_right.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":73,
+                 "image":"img\/rails__forked_up_down_left.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":74,
+                 "image":"img\/rails__forked_up_down_right.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":75,
+                 "image":"img\/rails__forked_up_left_right.png",
+                 "imageheight":16,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":76,
+                 "image":"img\/rails__vertical.png",
+                 "imageheight":16,
+                 "imagewidth":16
                 }],
          "tilewidth":32
         }],
