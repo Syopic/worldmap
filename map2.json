@@ -77,7 +77,7 @@
          "margin":0,
          "name":"objects",
          "spacing":0,
-         "tilecount":90,
+         "tilecount":88,
          "tileheight":64,
          "tiles":[
                 {
@@ -253,7 +253,7 @@
                  "image":"img\/polunica.png",
                  "imageheight":16,
                  "imagewidth":16,
-                 "type":"\u041f\u043e\u043b\u043d\u0438\u0446\u044f"
+                 "type":"\u041f\u043e\u043b\u0443\u043d\u0438\u0446\u044f"
                 }, 
                 {
                  "id":38,
@@ -289,13 +289,6 @@
                  "imageheight":16,
                  "imagewidth":16,
                  "type":"\u0413\u0415\u0421"
-                }, 
-                {
-                 "id":44,
-                 "image":"img\/border.png",
-                 "imageheight":16,
-                 "imagewidth":16,
-                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":52,
@@ -380,13 +373,6 @@
                  "imageheight":16,
                  "imagewidth":16,
                  "type":"\u0422\u0440\u0430\u0432\u0430"
-                }, 
-                {
-                 "id":85,
-                 "image":"img\/cordon.png",
-                 "imageheight":16,
-                 "imagewidth":16,
-                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":86,
@@ -556,61 +542,71 @@
                  "id":111,
                  "image":"img\/BorderDownLeft.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":112,
                  "image":"img\/BorderHorizontal.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":113,
                  "image":"img\/BorderUpDownLeft.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":114,
                  "image":"img\/BorderUpDownRight.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":115,
                  "image":"img\/BorderUpLeft.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":116,
                  "image":"img\/BorderUpRight.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":117,
                  "image":"img\/BorderVertical.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":118,
                  "image":"img\/BoundaryDownLeftRight.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":119,
                  "image":"img\/BoundaryDownRight.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":120,
                  "image":"img\/BoundaryTopLeftRight.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u041a\u043e\u0440\u0434\u043e\u043d"
                 }, 
                 {
                  "id":121,
@@ -664,25 +660,29 @@
                  "id":129,
                  "image":"img\/RiverWater_1_4.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u0412\u043e\u0434\u0430"
                 }, 
                 {
                  "id":130,
                  "image":"img\/RiverWater_2_4.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u0412\u043e\u0434\u0430"
                 }, 
                 {
                  "id":131,
                  "image":"img\/RiverWater_3_4.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u0412\u043e\u0434\u0430"
                 }, 
                 {
                  "id":132,
                  "image":"img\/RiverWater_4_4.png",
                  "imageheight":16,
-                 "imagewidth":16
+                 "imagewidth":16,
+                 "type":"\u0412\u043e\u0434\u0430"
                 }],
          "tilewidth":64
         }],
