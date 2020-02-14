@@ -502,25 +502,25 @@
                 }, 
                 {
                  "id":104,
-                 "image":"img\/WaterDownRight.gif",
+                 "image":"img\/WaterDownRight.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":105,
-                 "image":"img\/WaterUpLeft.gif",
+                 "image":"img\/WaterUpLeft.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":106,
-                 "image":"img\/WaterUpRight.gif",
+                 "image":"img\/WaterUpRight.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
                 {
                  "id":107,
-                 "image":"img\/WoterDownLeft.gif",
+                 "image":"img\/WoterDownLeft.png",
                  "imageheight":16,
                  "imagewidth":16
                 }, 
